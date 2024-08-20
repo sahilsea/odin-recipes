@@ -1,4 +1,4 @@
-![Screenshot 2024-08-20 at 11 52 58 AM](https://github.com/user-attachments/assets/4a87b53c-4039-4fed-bb3d-9127161dcbe7)# odin-recipes
+# odin-recipes
 Project for Learning HTML provided by Odin.
 
 An assignment on HTML.
